@@ -1,4 +1,4 @@
-# incrinamer
+# increnamer
 A sample Python web service that produces host names with
 embedded numbers based on supplied JSON params.
 
